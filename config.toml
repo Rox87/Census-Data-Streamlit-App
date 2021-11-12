@@ -16,6 +16,8 @@ sharingMode = "off"
 # Default: true
 showWarningOnDirectExecution = true
 
+WEBSITES_PORT = 80
+
 # Level of logging: 'error', 'warning', 'info', or 'debug'.
 # Default: 'info'
 logLevel = "debug"
@@ -128,3 +130,6 @@ keyPrefix = ""
 # Leave unset to use your default profile.
 # Default: (unset)
 # profile =
+
+[logger]
+level = “debug”
