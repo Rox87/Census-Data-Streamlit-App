@@ -1,6 +1,1 @@
-streamlit
-pandas
-numpy
-seaborn
-matplotlib
-censusdata
+streamlit   
